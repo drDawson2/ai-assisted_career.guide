@@ -96,6 +96,8 @@ The methodology uses these frameworks to inform questions and analysis while rem
 
 ### For Best Results
 
+- **Type conversationally** - many people use AI models like an adanved Google. This system works best when you type into Claude as if you are chatting, not searching.
+- - **It is okay tell Claude to slow down, go back, or correct it** - Claude often provide multiple questions at once. It is okay to tell it to ask you questions one at a time or to return to previous questions if you were not finished.
 - **Be honest and specific** in foundational questions - the quality of your profile depends on information you provide
 - **Upload quality documents** - richer documents enable better analysis
 - **Take your time** - don't rush through the questions
