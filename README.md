@@ -41,7 +41,7 @@ By following this guide, you'll receive:
 
 ### Quick Start (5 Steps)
 
-1. **Download the Guide**: Clikc here to open the [AI-Assisted Career Development Guide]()
+1. **Open the Guide**: Click here to open the [AI-Assisted Career Development Guide](career_development_guide.html)
 2. **Open Claude**: Click the "Open Claude" button in the guide
 3. **Create Your Project**: Follow Part 1 instructions to set up your Claude project
 4. **Upload Your Resume**: Add your resume to project files
@@ -206,4 +206,4 @@ Developed in collaboration with Claude (Anthropic) as part of doctoral research 
 
 ---
 
-**Ready to start your career development journey? Open `career_development_guide.html` and begin!**
+**Ready to start your career development journey? Click here to open the [AI-Assisted Career Development Guide](career_development_guide.html) and begin!**
